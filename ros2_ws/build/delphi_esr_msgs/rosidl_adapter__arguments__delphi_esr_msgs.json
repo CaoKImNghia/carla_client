@@ -1,0 +1,25 @@
+{
+  "package_name": "delphi_esr_msgs",
+  "non_idl_tuples": [
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/delphi_esr_msgs:msg/EsrEthTx.msg",
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/delphi_esr_msgs:msg/EsrStatus1.msg",
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/delphi_esr_msgs:msg/EsrStatus2.msg",
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/delphi_esr_msgs:msg/EsrStatus3.msg",
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/delphi_esr_msgs:msg/EsrStatus4.msg",
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/delphi_esr_msgs:msg/EsrStatus5.msg",
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/delphi_esr_msgs:msg/EsrStatus6.msg",
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/delphi_esr_msgs:msg/EsrStatus7.msg",
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/delphi_esr_msgs:msg/EsrStatus8.msg",
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/delphi_esr_msgs:msg/EsrStatus9.msg",
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/delphi_esr_msgs:msg/EsrTrack.msg",
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/delphi_esr_msgs:msg/EsrTrackMotionPowerTrack.msg",
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/delphi_esr_msgs:msg/EsrTrackMotionPowerGroup.msg",
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/delphi_esr_msgs:msg/EsrValid1.msg",
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/delphi_esr_msgs:msg/EsrValid2.msg",
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/delphi_esr_msgs:msg/EsrVehicle1.msg",
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/delphi_esr_msgs:msg/EsrVehicle2.msg",
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/delphi_esr_msgs:msg/EsrVehicle3.msg",
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/delphi_esr_msgs:msg/EsrVehicle4.msg",
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/delphi_esr_msgs:msg/EsrVehicle5.msg"
+  ]
+}

@@ -1,0 +1,8 @@
+/home/enovonck2004/carla_client/ros2_ws/build/neobotix_usboard_msgs/rosidl_adapter/neobotix_usboard_msgs:msg/AnalogIn.idl
+/home/enovonck2004/carla_client/ros2_ws/build/neobotix_usboard_msgs/rosidl_adapter/neobotix_usboard_msgs:msg/AnsParasetToEEPROM.idl
+/home/enovonck2004/carla_client/ros2_ws/build/neobotix_usboard_msgs/rosidl_adapter/neobotix_usboard_msgs:msg/AnsToCmdConnect.idl
+/home/enovonck2004/carla_client/ros2_ws/build/neobotix_usboard_msgs/rosidl_adapter/neobotix_usboard_msgs:msg/AnsWriteParaset.idl
+/home/enovonck2004/carla_client/ros2_ws/build/neobotix_usboard_msgs/rosidl_adapter/neobotix_usboard_msgs:msg/Command.idl
+/home/enovonck2004/carla_client/ros2_ws/build/neobotix_usboard_msgs/rosidl_adapter/neobotix_usboard_msgs:msg/SensorData.idl
+/home/enovonck2004/carla_client/ros2_ws/build/neobotix_usboard_msgs/rosidl_adapter/neobotix_usboard_msgs:msg/Sensors.idl
+/home/enovonck2004/carla_client/ros2_ws/build/neobotix_usboard_msgs/rosidl_adapter/neobotix_usboard_msgs:msg/Paraset.idl

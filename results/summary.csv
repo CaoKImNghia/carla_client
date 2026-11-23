@@ -1,0 +1,9 @@
+run_id,target_speed_kmh,distance_ahead_m,target_speed_diff_pct,weather,sim_time_s,tire_friction,status,final_ego_speed_mps
+clear_slow_near,5,30,10,ClearNoon,30,2.0,ok,0.9531537731643915
+clear_slow_far,20,30,10,ClearNoon,30,0.5,ok,4.366507180972553
+clear_fast_near,30,15,10,ClearNoon,30,0.95,ok,6.824903849320099
+clear_fast_far,30,30,10,ClearNoon,30,1.45,ok,6.824903849320099
+wet_slow_near,20,15,10,WetNoon,30,2.0,ok,4.366507180972553
+wet_slow_far,20,30,10,WetNoon,30,2.0,ok,4.366507180972553
+wet_fast_near,30,15,10,WetNoon,30,2.0,ok,6.824903849320099
+wet_fast_far,30,30,10,WetNoon,30,2.0,ok,6.824903849320099

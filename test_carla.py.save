@@ -1,0 +1,13 @@
+import carla
+
+WINDOWS_IP = "172.29.240.1"
+
+client = carla.Client(WINDOWS_IP, 2000)
+client.set_timeout(10.0)
+
+print("Dang ket noi toi CARLA...")
+
+world = client.get_world()
+
+print("Ket noi CARLA thanh cong!")
+print("Map hien tai:", world.get_map().name)

@@ -1,0 +1,8 @@
+{
+  "package_name": "carla_waypoint_types",
+  "non_idl_tuples": [
+    "/home/enovonck2004/carla_client/ros2_ws/src/ros-bridge/carla_waypoint_types:msg/CarlaWaypoint.msg",
+    "/home/enovonck2004/carla_client/ros2_ws/src/ros-bridge/carla_waypoint_types:srv/GetWaypoint.srv",
+    "/home/enovonck2004/carla_client/ros2_ws/src/ros-bridge/carla_waypoint_types:srv/GetActorWaypoint.srv"
+  ]
+}

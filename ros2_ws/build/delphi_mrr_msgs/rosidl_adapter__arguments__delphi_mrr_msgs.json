@@ -1,0 +1,23 @@
+{
+  "package_name": "delphi_mrr_msgs",
+  "non_idl_tuples": [
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/delphi_mrr_msgs:msg/ActiveFaultLatched1.msg",
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/delphi_mrr_msgs:msg/ActiveFaultLatched2.msg",
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/delphi_mrr_msgs:msg/MrrControlMsgFR.msg",
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/delphi_mrr_msgs:msg/MrrControlMsgNR.msg",
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/delphi_mrr_msgs:msg/MrrDetection.msg",
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/delphi_mrr_msgs:msg/MrrHeaderAlignmentState.msg",
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/delphi_mrr_msgs:msg/MrrHeaderInformationDetections.msg",
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/delphi_mrr_msgs:msg/MrrHeaderSensorCoverage.msg",
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/delphi_mrr_msgs:msg/MrrHeaderSensorPosition.msg",
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/delphi_mrr_msgs:msg/MrrHeaderTimestamps.msg",
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/delphi_mrr_msgs:msg/MrrStatusCanVersion.msg",
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/delphi_mrr_msgs:msg/MrrStatusRadar.msg",
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/delphi_mrr_msgs:msg/MrrStatusSerialNumber.msg",
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/delphi_mrr_msgs:msg/MrrStatusSwVersion.msg",
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/delphi_mrr_msgs:msg/MrrStatusTempVolt.msg",
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/delphi_mrr_msgs:msg/VehicleStateMsg1.msg",
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/delphi_mrr_msgs:msg/VehicleStateMsg2.msg",
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/delphi_mrr_msgs:msg/VehicleStateMsg3.msg"
+  ]
+}

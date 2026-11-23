@@ -1,0 +1,1 @@
+/home/enovonck2004/carla_client/ros2_ws/build/carla_waypoint_types/rosidl_generator_c/carla_waypoint_types/msg/detail/carla_waypoint__struct.h

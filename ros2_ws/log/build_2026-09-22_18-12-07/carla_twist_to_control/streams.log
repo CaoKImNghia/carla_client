@@ -1,0 +1,26 @@
+[1.500s] Invoking command in '/home/enovonck2004/carla_client/ros2_ws/build/carla_twist_to_control': PYTHONPATH=/home/enovonck2004/carla_client/ros2_ws/build/carla_twist_to_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/enovonck2004/carla_client/ros2_ws/install/carla_twist_to_control/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/enovonck2004/carla_client/ros2_ws/build/carla_twist_to_control/build --no-deps symlink_data
+[1.763s] running develop
+[1.924s] running egg_info
+[1.924s] creating src/carla_twist_to_control.egg-info
+[1.924s] writing src/carla_twist_to_control.egg-info/PKG-INFO
+[1.924s] writing dependency_links to src/carla_twist_to_control.egg-info/dependency_links.txt
+[1.924s] writing entry points to src/carla_twist_to_control.egg-info/entry_points.txt
+[1.924s] writing requirements to src/carla_twist_to_control.egg-info/requires.txt
+[1.924s] writing top-level names to src/carla_twist_to_control.egg-info/top_level.txt
+[1.934s] writing manifest file 'src/carla_twist_to_control.egg-info/SOURCES.txt'
+[1.978s] reading manifest file 'src/carla_twist_to_control.egg-info/SOURCES.txt'
+[1.979s] writing manifest file 'src/carla_twist_to_control.egg-info/SOURCES.txt'
+[2.016s] running build_ext
+[2.016s] Creating /home/enovonck2004/carla_client/ros2_ws/install/carla_twist_to_control/lib/python3.8/site-packages/site.py
+[2.020s] Creating /home/enovonck2004/carla_client/ros2_ws/install/carla_twist_to_control/lib/python3.8/site-packages/carla-twist-to-control.egg-link (link to src)
+[2.021s] Installing carla_twist_to_control script to /home/enovonck2004/carla_client/ros2_ws/install/carla_twist_to_control/lib/carla_twist_to_control
+[2.022s] 
+[2.023s] Installed /home/enovonck2004/carla_client/ros2_ws/build/carla_twist_to_control/src
+[2.024s] running symlink_data
+[2.024s] creating /home/enovonck2004/carla_client/ros2_ws/install/carla_twist_to_control/share/ament_index
+[2.024s] creating /home/enovonck2004/carla_client/ros2_ws/install/carla_twist_to_control/share/ament_index/resource_index
+[2.024s] creating /home/enovonck2004/carla_client/ros2_ws/install/carla_twist_to_control/share/ament_index/resource_index/packages
+[2.024s] symbolically linking /home/enovonck2004/carla_client/ros2_ws/build/carla_twist_to_control/resource/carla_twist_to_control -> /home/enovonck2004/carla_client/ros2_ws/install/carla_twist_to_control/share/ament_index/resource_index/packages
+[2.024s] symbolically linking /home/enovonck2004/carla_client/ros2_ws/build/carla_twist_to_control/package.xml -> /home/enovonck2004/carla_client/ros2_ws/install/carla_twist_to_control/share/carla_twist_to_control
+[2.025s] symbolically linking /home/enovonck2004/carla_client/ros2_ws/build/carla_twist_to_control/launch/carla_twist_to_control.launch.py -> /home/enovonck2004/carla_client/ros2_ws/install/carla_twist_to_control/share/carla_twist_to_control
+[2.073s] Invoked command in '/home/enovonck2004/carla_client/ros2_ws/build/carla_twist_to_control' returned '0': PYTHONPATH=/home/enovonck2004/carla_client/ros2_ws/build/carla_twist_to_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/enovonck2004/carla_client/ros2_ws/install/carla_twist_to_control/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/enovonck2004/carla_client/ros2_ws/build/carla_twist_to_control/build --no-deps symlink_data

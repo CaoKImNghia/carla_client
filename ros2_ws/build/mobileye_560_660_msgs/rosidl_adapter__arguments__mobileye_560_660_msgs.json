@@ -1,0 +1,18 @@
+{
+  "package_name": "mobileye_560_660_msgs",
+  "non_idl_tuples": [
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/mobileye_560_660_msgs:msg/AftermarketLane.msg",
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/mobileye_560_660_msgs:msg/Ahbc.msg",
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/mobileye_560_660_msgs:msg/AhbcGradual.msg",
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/mobileye_560_660_msgs:msg/AwsDisplay.msg",
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/mobileye_560_660_msgs:msg/FixedFoe.msg",
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/mobileye_560_660_msgs:msg/Lane.msg",
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/mobileye_560_660_msgs:msg/LkaLane.msg",
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/mobileye_560_660_msgs:msg/LkaNumOfNextLaneMarkersReported.msg",
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/mobileye_560_660_msgs:msg/LkaReferencePoints.msg",
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/mobileye_560_660_msgs:msg/ObstacleData.msg",
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/mobileye_560_660_msgs:msg/ObstacleStatus.msg",
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/mobileye_560_660_msgs:msg/Tsr.msg",
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/mobileye_560_660_msgs:msg/TsrVisionOnly.msg"
+  ]
+}

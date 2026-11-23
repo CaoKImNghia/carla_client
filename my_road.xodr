@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenDRIVE>
+    <header revMajor="1" revMinor="4" name="Nga ba re phai" version="1" date="2026-09-16T00:00:00" north="1000" south="-1000" east="1000" west="-1000" vendor="CARLA"/>
+    <!--Road 1 -> 2 -> 3. Moi road bat dau voi s=0.-->
+    <road name="duong chinh" length="90.000000000000" id="1" junction="-1">
+        <link>
+            <successor elementType="road" elementId="2" contactPoint="start"/>
+        </link>
+        <planView>
+            <geometry s="0.000000000000" x="0.000000000000" y="0.000000000000" hdg="0.000000000000" length="60.000000000000">
+                <line/>
+            </geometry>
+            <geometry s="60.000000000000" x="60.000000000000" y="0.000000000000" hdg="0.000000000000" length="30.000000000000">
+                <arc curvature="0.010000000000"/>
+            </geometry>
+        </planView>
+        <lanes>
+            <laneSection s="0">
+                <left>
+                    <lane id="1" type="driving" level="false">
+                        <link>
+                            <successor id="1"/>
+                        </link>
+                        <width sOffset="0" a="3.5" b="0" c="0" d="0"/>
+                        <roadMark sOffset="0" type="solid" weight="standard" color="white" width="0.15"/>
+                    </lane>
+                </left>
+                <center>
+                    <lane id="0" type="none" level="false">
+                        <roadMark sOffset="0" type="broken" weight="standard" color="white" width="0.15"/>
+                    </lane>
+                </center>
+                <right>
+                    <lane id="-1" type="driving" level="false">
+                        <link>
+                            <successor id="-1"/>
+                        </link>
+                        <width sOffset="0" a="3.5" b="0" c="0" d="0"/>
+                        <roadMark sOffset="0" type="solid" weight="standard" color="white" width="0.15"/>
+                    </lane>
+                </right>
+            </laneSection>
+        </lanes>
+    </road>
+    <road name="duong thang" length="30.000000000000" id="2" junction="-1">
+        <link>
+            <predecessor elementType="road" elementId="1" contactPoint="end"/>
+            <successor elementType="road" elementId="3" contactPoint="start"/>
+        </link>
+        <planView>
+            <geometry s="0.000000000000" x="89.552020666134" y="4.466351087439" hdg="0.300000000000" length="30.000000000000">
+                <line/>
+            </geometry>
+        </planView>
+        <lanes>
+            <laneSection s="0">
+                <left>
+                    <lane id="1" type="driving" level="false">
+                        <link>
+                            <predecessor id="1"/>
+                            <successor id="1"/>
+                        </link>
+                        <width sOffset="0" a="3.5" b="0" c="0" d="0"/>
+                        <roadMark sOffset="0" type="solid" weight="standard" color="white" width="0.15"/>
+                    </lane>
+                </left>
+                <center>
+                    <lane id="0" type="none" level="false">
+                        <roadMark sOffset="0" type="broken" weight="standard" color="white" width="0.15"/>
+                    </lane>
+                </center>
+                <right>
+                    <lane id="-1" type="driving" level="false">
+                        <link>
+                            <predecessor id="-1"/>
+                            <successor id="-1"/>
+                        </link>
+                        <width sOffset="0" a="3.5" b="0" c="0" d="0"/>
+                        <roadMark sOffset="0" type="solid" weight="standard" color="white" width="0.15"/>
+                    </lane>
+                </right>
+            </laneSection>
+        </lanes>
+    </road>
+    <road name="duong den nga ba" length="40.000000000000" id="3" junction="-1">
+        <link>
+            <predecessor elementType="road" elementId="2" contactPoint="end"/>
+            <successor elementType="junction" elementId="10"/>
+        </link>
+        <planView>
+            <geometry s="0.000000000000" x="118.212115339902" y="13.331957287280" hdg="0.300000000000" length="40.000000000000">
+                <line/>
+            </geometry>
+        </planView>
+        <lanes>
+            <laneSection s="0">
+                <left>
+                    <lane id="1" type="driving" level="false">
+                        <link>
+                            <predecessor id="1"/>
+                        </link>
+                        <width sOffset="0" a="3.5" b="0" c="0" d="0"/>
+                        <roadMark sOffset="0" type="solid" weight="standard" color="white" width="0.15"/>
+                    </lane>
+                </left>
+                <center>
+                    <lane id="0" type="none" level="false">
+                        <roadMark sOffset="0" type="broken" weight="standard" color="white" width="0.15"/>
+                    </lane>
+                </center>
+                <right>
+                    <lane id="-1" type="driving" level="false">
+                        <link>
+                            <predecessor id="-1"/>
+                        </link>
+                        <width sOffset="0" a="3.5" b="0" c="0" d="0"/>
+                        <roadMark sOffset="0" type="solid" weight="standard" color="white" width="0.15"/>
+                    </lane>
+                </right>
+            </laneSection>
+        </lanes>
+    </road>
+    <!--Road 4 di thang; road 5 la nhanh ben phai, dai 40 m.-->
+    <road name="nhanh di thang" length="40.000000000000" id="4" junction="-1">
+        <link>
+            <predecessor elementType="junction" elementId="10"/>
+        </link>
+        <planView>
+            <geometry s="0.000000000000" x="175.532304687439" y="31.063169686960" hdg="0.300000000000" length="40.000000000000">
+                <line/>
+            </geometry>
+        </planView>
+        <lanes>
+            <laneSection s="0">
+                <left>
+                    <lane id="1" type="driving" level="false">
+                        <link/>
+                        <width sOffset="0" a="3.5" b="0" c="0" d="0"/>
+                        <roadMark sOffset="0" type="solid" weight="standard" color="white" width="0.15"/>
+                    </lane>
+                </left>
+                <center>
+                    <lane id="0" type="none" level="false">
+                        <roadMark sOffset="0" type="broken" weight="standard" color="white" width="0.15"/>
+                    </lane>
+                </center>
+                <right>
+                    <lane id="-1" type="driving" level="false">
+                        <link/>
+                        <width sOffset="0" a="3.5" b="0" c="0" d="0"/>
+                        <roadMark sOffset="0" type="solid" weight="standard" color="white" width="0.15"/>
+                    </lane>
+                </right>
+            </laneSection>
+        </lanes>
+    </road>
+    <road name="nhanh re phai" length="40.000000000000" id="5" junction="-1">
+        <link>
+            <predecessor elementType="junction" elementId="10"/>
+        </link>
+        <planView>
+            <geometry s="0.000000000000" x="168.934141862796" y="18.554602729091" hdg="-1.270796326795" length="40.000000000000">
+                <line/>
+            </geometry>
+        </planView>
+        <lanes>
+            <laneSection s="0">
+                <left>
+                    <lane id="1" type="driving" level="false">
+                        <link/>
+                        <width sOffset="0" a="3.5" b="0" c="0" d="0"/>
+                        <roadMark sOffset="0" type="solid" weight="standard" color="white" width="0.15"/>
+                    </lane>
+                </left>
+                <center>
+                    <lane id="0" type="none" level="false">
+                        <roadMark sOffset="0" type="broken" weight="standard" color="white" width="0.15"/>
+                    </lane>
+                </center>
+                <right>
+                    <lane id="-1" type="driving" level="false">
+                        <link/>
+                        <width sOffset="0" a="3.5" b="0" c="0" d="0"/>
+                        <roadMark sOffset="0" type="solid" weight="standard" color="white" width="0.15"/>
+                    </lane>
+                </right>
+            </laneSection>
+        </lanes>
+    </road>
+    <!--Road 30: di thang qua nut giao. Road 31: cua phai 90 do, R=10 m, curvature=-0.1, L=10*pi/2.-->
+    <road name="noi 3 va 4" length="20.000000000000" id="30" junction="10">
+        <link>
+            <predecessor elementType="road" elementId="3" contactPoint="end"/>
+            <successor elementType="road" elementId="4" contactPoint="start"/>
+        </link>
+        <planView>
+            <geometry s="0.000000000000" x="156.425574904926" y="25.152765553733" hdg="0.300000000000" length="20.000000000000">
+                <line/>
+            </geometry>
+        </planView>
+        <lanes>
+            <laneSection s="0">
+                <left>
+                    <lane id="1" type="driving" level="false">
+                        <link>
+                            <predecessor id="1"/>
+                            <successor id="1"/>
+                        </link>
+                        <width sOffset="0" a="3.5" b="0" c="0" d="0"/>
+                        <roadMark sOffset="0" type="none" weight="standard" color="white" width="0.15"/>
+                    </lane>
+                </left>
+                <center>
+                    <lane id="0" type="none" level="false">
+                        <roadMark sOffset="0" type="none" weight="standard" color="white" width="0.15"/>
+                    </lane>
+                </center>
+                <right>
+                    <lane id="-1" type="driving" level="false">
+                        <link>
+                            <predecessor id="-1"/>
+                            <successor id="-1"/>
+                        </link>
+                        <width sOffset="0" a="3.5" b="0" c="0" d="0"/>
+                        <roadMark sOffset="0" type="none" weight="standard" color="white" width="0.15"/>
+                    </lane>
+                </right>
+            </laneSection>
+        </lanes>
+    </road>
+    <road name="noi 3 va 5" length="15.707963267949" id="31" junction="10">
+        <link>
+            <predecessor elementType="road" elementId="3" contactPoint="end"/>
+            <successor elementType="road" elementId="5" contactPoint="start"/>
+        </link>
+        <planView>
+            <geometry s="0.000000000000" x="156.425574904926" y="25.152765553733" hdg="0.300000000000" length="15.707963267949">
+                <arc curvature="-0.100000000000"/>
+            </geometry>
+        </planView>
+        <lanes>
+            <laneSection s="0">
+                <left>
+                    <lane id="1" type="driving" level="false">
+                        <link>
+                            <predecessor id="1"/>
+                            <successor id="1"/>
+                        </link>
+                        <width sOffset="0" a="3.5" b="0" c="0" d="0"/>
+                        <roadMark sOffset="0" type="none" weight="standard" color="white" width="0.15"/>
+                    </lane>
+                </left>
+                <center>
+                    <lane id="0" type="none" level="false">
+                        <roadMark sOffset="0" type="none" weight="standard" color="white" width="0.15"/>
+                    </lane>
+                </center>
+                <right>
+                    <lane id="-1" type="driving" level="false">
+                        <link>
+                            <predecessor id="-1"/>
+                            <successor id="-1"/>
+                        </link>
+                        <width sOffset="0" a="3.5" b="0" c="0" d="0"/>
+                        <roadMark sOffset="0" type="none" weight="standard" color="white" width="0.15"/>
+                    </lane>
+                </right>
+            </laneSection>
+        </lanes>
+    </road>
+    <!--Road 32 noi nhanh 5 voi nhanh 4; huong dau road nguoc huong road 5 nen doi dau lane link.-->
+    <!-- length = R * goc quay de tinh chieu dai doan noi -->
+    <road name="noi 5 va 4" length="15.707963267949" id="32" junction="10">
+        <link>
+            <predecessor elementType="road" elementId="5" contactPoint="start"/>
+            <successor elementType="road" elementId="4" contactPoint="start"/>
+        </link>
+        <planView>
+            <geometry s="0.000000000000" x="168.934141862796" y="18.554602729091" hdg="1.870796326795" length="15.707963267949">
+                <arc curvature="-0.100000000000"/>
+            </geometry>
+        </planView>
+        <lanes>
+            <laneSection s="0">
+                <left>
+                    <lane id="1" type="driving" level="false">
+                        <link>
+                            <predecessor id="-1"/>
+                            <successor id="1"/>
+                        </link>
+                        <width sOffset="0" a="3.5" b="0" c="0" d="0"/>
+                        <roadMark sOffset="0" type="none" weight="standard" color="white" width="0.15"/>
+                    </lane>
+                </left>
+                <center>
+                    <lane id="0" type="none" level="false">
+                        <roadMark sOffset="0" type="none" weight="standard" color="white" width="0.15"/>
+                    </lane>
+                </center>
+                <right>
+                    <lane id="-1" type="driving" level="false">
+                        <link>
+                            <predecessor id="1"/>
+                            <successor id="-1"/>
+                        </link>
+                        <width sOffset="0" a="3.5" b="0" c="0" d="0"/>
+                        <roadMark sOffset="0" type="none" weight="standard" color="white" width="0.15"/>
+                    </lane>
+                </right>
+            </laneSection>
+        </lanes>
+    </road>
+    <junction id="10" name="nga ba ben phai">
+        <connection id="0" incomingRoad="3" connectingRoad="30" contactPoint="start">
+            <laneLink from="-1" to="-1"/>
+        </connection>
+        <connection id="1" incomingRoad="3" connectingRoad="31" contactPoint="start">
+            <laneLink from="-1" to="-1"/>
+        </connection>
+        <connection id="2" incomingRoad="4" connectingRoad="30" contactPoint="end">
+            <laneLink from="1" to="1"/>
+        </connection>
+        <connection id="3" incomingRoad="5" connectingRoad="31" contactPoint="end">
+            <laneLink from="1" to="1"/>
+        </connection>
+        <connection id="4" incomingRoad="5" connectingRoad="32" contactPoint="start">
+            <laneLink from="1" to="-1"/>
+        </connection>
+        <connection id="5" incomingRoad="4" connectingRoad="32" contactPoint="end">
+            <laneLink from="1" to="1"/>
+        </connection>
+    </junction>
+</OpenDRIVE>

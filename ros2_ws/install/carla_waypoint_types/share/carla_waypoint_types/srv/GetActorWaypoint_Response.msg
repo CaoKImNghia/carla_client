@@ -1,0 +1,1 @@
+/home/enovonck2004/carla_client/ros2_ws/build/carla_waypoint_types/rosidl_cmake/srv/GetActorWaypoint_Response.msg

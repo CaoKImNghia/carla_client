@@ -1,0 +1,1 @@
+/home/enovonck2004/carla_client/ros2_ws/build/delphi_mrr_msgs/ament_cmake_environment_hooks/local_setup.sh

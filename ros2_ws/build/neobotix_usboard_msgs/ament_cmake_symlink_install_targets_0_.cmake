@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/enovonck2004/carla_client/ros2_ws/build/neobotix_usboard_msgs/libneobotix_usboard_msgs__rosidl_typesupport_fastrtps_c.so" "TARGETS" "neobotix_usboard_msgs__rosidl_typesupport_fastrtps_c" "ARCHIVE_DESTINATION" "lib" "LIBRARY_DESTINATION" "lib" "RUNTIME_DESTINATION" "bin")

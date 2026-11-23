@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/enovonck2004/carla_client/ros2_ws/build/neobotix_usboard_msgs/rosidl_generator_py/neobotix_usboard_msgs/neobotix_usboard_msgs_s__rosidl_typesupport_c.cpython-38-x86_64-linux-gnu.so" "TARGETS" "neobotix_usboard_msgs__rosidl_typesupport_c__pyext" "DESTINATION" "lib/python3.8/site-packages/neobotix_usboard_msgs")

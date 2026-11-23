@@ -1,0 +1,12 @@
+// generated from rosidl_generator_cpp/resource/idl.hpp.em
+// generated code does not contain a copyright notice
+
+#ifndef IBEO_MSGS__MSG__HOST_VEHICLE_STATE2805_HPP_
+#define IBEO_MSGS__MSG__HOST_VEHICLE_STATE2805_HPP_
+
+#include "ibeo_msgs/msg/detail/host_vehicle_state2805__struct.hpp"
+#include "ibeo_msgs/msg/detail/host_vehicle_state2805__builder.hpp"
+#include "ibeo_msgs/msg/detail/host_vehicle_state2805__traits.hpp"
+#include "ibeo_msgs/msg/detail/host_vehicle_state2805__type_support.hpp"
+
+#endif  // IBEO_MSGS__MSG__HOST_VEHICLE_STATE2805_HPP_

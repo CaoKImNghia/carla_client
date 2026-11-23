@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+ros2_galactic_carla0911_ws/
+ros2_ws_backup_20260922/

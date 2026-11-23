@@ -1,0 +1,2 @@
+run_id,target_speed_kmh,distance_ahead_m,target_speed_diff_pct,weather,sim_time_s,tire_friction
+testrun_ego_20kmh,20,20,10,CloudyNoon,30,0.95

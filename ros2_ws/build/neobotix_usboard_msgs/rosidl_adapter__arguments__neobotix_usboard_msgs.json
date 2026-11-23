@@ -1,0 +1,13 @@
+{
+  "package_name": "neobotix_usboard_msgs",
+  "non_idl_tuples": [
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/neobotix_usboard_msgs:msg/AnalogIn.msg",
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/neobotix_usboard_msgs:msg/AnsParasetToEEPROM.msg",
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/neobotix_usboard_msgs:msg/AnsToCmdConnect.msg",
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/neobotix_usboard_msgs:msg/AnsWriteParaset.msg",
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/neobotix_usboard_msgs:msg/Command.msg",
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/neobotix_usboard_msgs:msg/SensorData.msg",
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/neobotix_usboard_msgs:msg/Sensors.msg",
+    "/home/enovonck2004/carla_client/ros2_ws/src/astuff_sensor_msgs/neobotix_usboard_msgs:msg/Paraset.msg"
+  ]
+}

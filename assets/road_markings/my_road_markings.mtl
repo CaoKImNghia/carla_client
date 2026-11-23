@@ -1,0 +1,25 @@
+newmtl white
+Kd 1.0000 1.0000 1.0000
+Ka 0.0000 0.0000 0.0000
+illum 1
+
+newmtl yellow
+Kd 1.0000 0.8000 0.0000
+Ka 0.0000 0.0000 0.0000
+illum 1
+
+newmtl red
+Kd 1.0000 0.0000 0.0000
+Ka 0.0000 0.0000 0.0000
+illum 1
+
+newmtl blue
+Kd 0.0000 0.3000 1.0000
+Ka 0.0000 0.0000 0.0000
+illum 1
+
+newmtl green
+Kd 0.0000 0.8000 0.0000
+Ka 0.0000 0.0000 0.0000
+illum 1
+
